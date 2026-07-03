@@ -69,16 +69,16 @@ Microsoft Office Suite · Jira & Agile Methodology · Visual Studio Code · Data
 
 ### Featured Projects
 
-**Customer Churn Analysis & Recovery**
-Power BI, Looker Studio, SQL — identified at-risk customer accounts and drove a 28% revenue recovery.
+**Customer Churn Analysis & Recovery:**
+Power BI, ERP Insights, SQL — identified at-risk customer accounts and drove a 8% revenue recovery.
 
-**Customer Master Data Deduplication & CRM Governance**
+**Customer Master Data Deduplication & CRM Governance:**
 ERPNext, SQL — resolved 600+ duplicate GSTIN records and 1,500+ contact overlaps.
 
-**PwC Switzerland Power BI Job Simulation**
+**PwC Switzerland Power BI Job Simulation:**
 Client-facing KPI dashboards and HR data analysis identifying root causes of gender balance issues.
 
-**Blinkit Retail Sales & Inventory Dashboard**
+**Blinkit Retail Sales & Inventory Dashboard:**
 Power BI dashboard analyzing real-time grocery sales trends and inventory levels.
 
 ---
