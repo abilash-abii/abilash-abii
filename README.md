@@ -99,10 +99,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abilash-abii&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilash-abii&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
-</p>
+
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abilash-abii&hide_border=true&theme=tokyonight" alt="streak"/>
 </p>
